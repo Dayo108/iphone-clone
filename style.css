@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    height: 100vh;
+    background: black;
+       
+}
+.header
+{
+   display: flex;
+   gap: 120px;
+   background: rgb(23, 23, 23);
+   width: 1500px;
+  padding-left: 120px;
+   position: fixed;  
+   z-index: 999;
+           
+}
+
+
+.iphone h1
+{
+  font-weight: bolder;
+  font-family: Arial, sans-serif;
+  color: white;
+  
+  
+  
+}
+
+.head{
+ 
+ 
+}
+.section-one {
+    background-color: black; /* First section background color */
+    
+   
+}
+
+.text
+{
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    background-color:rgb(0, 113, 227);
+    margin-left: 45%;
+   
+}
+.text p
+{
+    padding: 7px 16px;
+    color: white;
+}
+.firstimg img
+{
+     justify-content: center;
+     align-items: center;
+     width: 1000px;
+     height: 500px;
+     margin-left: 100px;
+}
+@media (max-with:) {
+    
+}
+
+
